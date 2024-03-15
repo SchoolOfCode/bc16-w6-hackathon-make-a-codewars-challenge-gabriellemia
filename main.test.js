@@ -37,6 +37,7 @@ test("list of pizza ingredients should return 3", function () {
 test("list of pizza ingredients should return 2", function () {
   const ingredients = [
     "pineapple",
+    "olives",
     "ham",
     "dough",
     "tomato",
